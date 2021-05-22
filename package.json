@@ -1,0 +1,7 @@
+{
+  "name": "brighterscript-ls",
+  "bin": "brighterscript-ls",
+  "dependencies": {
+    "brighterscript": "^0.39.0"
+  }
+}

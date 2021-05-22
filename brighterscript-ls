@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const { LanguageServer } = require("brighterscript");
+const server = new LanguageServer();
+server.run();
